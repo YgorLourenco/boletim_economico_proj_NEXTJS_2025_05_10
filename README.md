@@ -4,6 +4,11 @@ Este projeto é uma aplicação web interativa que funciona como um **Boletim Ec
 
 A interface foi desenvolvida com foco em **Mobile-First**, garantindo que todas as tabelas e indicadores sejam perfeitamente legíveis em dispositivos móveis e desktops.
 
+## 🌐 Link de Acesso
+
+O projeto pode ser acessado online através do seguinte link:
+**[https://boletim-economico-proj-nextjs-2025-05-10-oj5zo8lqg.vercel.app](https://boletim-economico-proj-nextjs-2025-05-10-oj5zo8lqg.vercel.app)**
+
 ## 🚀 Tecnologias Utilizadas
 
 A aplicação foi construída utilizando ferramentas modernas de desenvolvimento web:
